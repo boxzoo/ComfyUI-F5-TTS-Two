@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-f5-tts"
+description = "Text to speech with F5-TTS"
+version = "1.0.17"
+license = {text = "MIT License"}
+
+[project.urls]
+Repository = "https://github.com/niknah/ComfyUI-F5-TTS"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "niknah"
+DisplayName = "ComfyUI F5-TTS"
+Icon = ""
